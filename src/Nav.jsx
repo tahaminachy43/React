@@ -1,5 +1,13 @@
 
 
 export default function Nav() {
-    return <h1>Navbar component</h1>
+    return (
+        <div>
+            <img src="./assets/Unknown.png"/>
+            <h4>ReactFacts</h4>
+            <h3>React Course - Project 1</h3>
+
+        </div>
+        
+    )
 }
