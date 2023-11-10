@@ -41,6 +41,10 @@ nav > img{
   align-items: center;
   margin-left : 20px; */
   padding: 57px 27px;
+  background-image: url(./assets/react-icon-large.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: 75% ;
   
 }
 
